@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="0.522" tests="2" skipped="0" failures="0" errors="0">
+<testcase classname="To explain the usage of the background" name="To study medicine" time="0.086">
+<system-out><![CDATA[
+Given Student should be passed in high school...............................passed
+Given Student should be passed in higher secondary..........................passed
+Given The student applied for medical course................................passed
+When The student shouldbe passed in entrance exam...........................passed
+Then The student is eligible for joining medical  institute.................passed
+]]></system-out>
+</testcase>
+<testcase classname="To explain the usage of the background" name="To study engineering" time="0.011">
+<system-out><![CDATA[
+Given Student should be passed in high school...............................passed
+Given Student should be passed in higher secondary..........................passed
+Given The student should be applied for engineering course..................passed
+When The student should be sayable cutoff...................................passed
+Then The student is eligible for joining engineering institue...............passed
+]]></system-out>
+</testcase>
+</testsuite>
